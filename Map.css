@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(90deg, #CCFFFF, #FFCCCC)
+}
+
+#mapid {
+    height: 50vh;
+    width: 50vw;
+    margin: auto;
+}
